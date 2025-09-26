@@ -5,15 +5,14 @@
 The AI-Powered Unified Ocean Data Platform is an intelligent system designed to revolutionize ocean monitoring, compliance management, and decision support.
 By integrating oceanographic, taxonomic, morphological, and environmental DNA (eDNA) datasets, the platform empowers:
 
-* **Fishermen** with early warnings and compliance insights.
-* **Researchers** with real-time biodiversity and ocean health data.
-* **Policymakers** with actionable analytics for sustainable governance.
+* Fishermen with early warnings and compliance insights.
+* Researchers with real-time biodiversity and ocean health data.
 
 ✨ Key Features
 
  Administrator Module
 
-**Dashboard**
+Dashboard
 
 * Real-time incident monitoring (map-based visualization + live feed).
 * Historical event archive with filtering and timeline playback.
@@ -21,14 +20,14 @@ By integrating oceanographic, taxonomic, morphological, and environmental DNA (e
 * Analytics snapshots with interactive charts and exportable reports.
 * System-wide notification broadcasting (email, SMS, in-app).
 
-**User & Role Management**
+User & Role Management
 
 * Add, edit, and delete user accounts.
 * Role assignment: *Fisherman, Researcher, Admin*.
 * Fine-grained permission controls (RBAC).
 * User activity logging & audit trails.
 
-**Compliance Management**
+Compliance Management
 
 * Upload and update fishing regulations.
 * Regulation versioning with rollback support.
@@ -37,22 +36,21 @@ By integrating oceanographic, taxonomic, morphological, and environmental DNA (e
 
  🔍 Advanced Capabilities
 
-* **AI-Powered Forecasting**: Predict biodiversity changes, pollution risks, and fishing stock availability.
-* **Predictive Compliance Insights**: Identify high-risk zones and seasonal violation patterns.
-* **Customizable Dashboards**: Drag-and-drop widgets, dark/light theme support.
-* **Multi-Language Support**: Accessible to diverse fishing communities.
-* **Offline Mode with Auto-Sync**: Designed for low-connectivity sea regions.
-* **Multi-Channel Alerts**: Push notifications, SMS, and email broadcasting.
-* **Audit & Security**: End-to-end role-based access with JWT authentication.
+* AI-Powered Forecasting: Predict biodiversity changes, pollution risks, and fishing stock availability.
+* Predictive Compliance Insights: Identify high-risk zones and seasonal violation patterns.
+* Customizable Dashboards: Drag-and-drop widgets, dark/light theme support.
+* Multi-Language Support: Accessible to diverse fishing communities.
+* Offline Mode with Auto-Sync: Designed for low-connectivity sea regions.
+* Multi-Channel Alerts: Push notifications, SMS, and email broadcasting.
+* Audit & Security: End-to-end role-based access with JWT authentication.
 
  🛠️ Technology Stack
 
-**Frontend:** React.js, Tailwind CSS, Recharts/Mapbox
-**Backend:** Node.js (Express.js), REST APIs
-**Database:** MongoDB (User data, compliance logs, incidents)
-**AI/ML Models:** Python (TensorFlow / PyTorch, eDNA analysis, predictive analytics)
-**Authentication:** JWT, Role-Based Access Control (RBAC)
-**Visualization:** D3.js / Mapbox GL for geographic mapping
+Frontend: React.js, Tailwind CSS, Recharts/Mapbox
+Backend: Node.js (Express.js), REST APIs
+Database: MongoDB (User data, compliance logs, incidents)
+AI/ML Models: Python (TensorFlow / PyTorch, eDNA analysis, predictive analytics)
+Authentication: JWT, Role-Based Access Control (RBAC)
 
  📂 Project Structure
 project-root/
@@ -98,4 +96,3 @@ We welcome contributions from developers, researchers, and environmental experts
 
 
 
-Would you like me to also **design a professional project logo + banner (README header image)** so the repo looks more branded and presentation-ready?
