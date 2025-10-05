@@ -1,6 +1,6 @@
 🌊 AI-Powered Unified Ocean Data & Compliance Platform
 
-📖 Overview
+ Overview
 
 The AI-Powered Unified Ocean Data Platform is an intelligent system designed to revolutionize ocean monitoring, compliance management, and decision support.
 By integrating oceanographic, taxonomic, morphological, and environmental DNA (eDNA) datasets, the platform empowers:
@@ -23,8 +23,8 @@ Dashboard
 User & Role Management
 
 * Add, edit, and delete user accounts.
-* Role assignment: *Fisherman, Researcher, Admin*.
-* Fine-grained permission controls (RBAC).
+* Role assignment: Fisherman, Researcher, Admin.
+* Fine-grained permission controls.
 * User activity logging & audit trails.
 
 Compliance Management
@@ -78,13 +78,13 @@ project-root/
 
  📊 Roadmap
 
-* ✅ Admin Dashboard (core functionalities).
-* ✅ User & Role Management.
-* ⏳ Compliance Management (in progress).
-* 🔮 AI-driven forecasting for biodiversity & compliance risks.
-* 🌍 Multi-language & offline support.
-* 📱 Mobile-first version for fishermen.
-* 📡 AR/VR-ready data visualization for policymakers.
+*  Admin Dashboard (core functionalities).
+*  User & Role Management.
+*  Compliance Management (in progress).
+*  AI-driven forecasting for biodiversity & compliance risks.
+*  Multi-language & offline support.
+*  Mobile-first version for fishermen.
+*  AR/VR-ready data visualization for policymakers.
 
 🤝 Contribution
 
