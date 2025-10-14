@@ -90,13 +90,13 @@ project-root/
 
  Roadmap
 
-- ✅ Admin Dashboard (core functionalities)  
-- ✅ User & Role Management  
-- 🔄 Compliance Management   
-- ⚙️ AI-driven forecasting for biodiversity & compliance risks  
-- 🌐 Multi-language & offline support  
-- 📱 Mobile-first version for fishermen  
-- 🧠 AR/VR-ready data visualization for policymakers  
+-  Admin Dashboard   
+-  User & Role Management  
+-  Compliance Management   
+-  AI-driven forecasting for biodiversity & compliance risks  
+-  Multi-language & offline support  
+-  Mobile-first version for fishermen  
+
 
 
  Contribution
@@ -113,53 +113,20 @@ We welcome contributions from developers, researchers, and environmental experts
    ```bash
    git commit -m "Added feature"
    ```
-4. **Push your branch:**
+4. Push your branch:
 
    ```bash
    git push origin feature-name
    ```
-5. **Open a Pull Request**
+5. Open a Pull Request
 
 About
 
-An **AI-powered platform** for real-time ocean monitoring, biodiversity analysis, and compliance management, with predictive insights and interactive dashboards to support fishermen, researchers, and policymakers.
+An AI-powered platform for real-time ocean monitoring, biodiversity analysis, and compliance management, with predictive insights and interactive dashboards to support fishermen, researchers, and policymakers.
 
----
+ Resources
 
-## 🧰 Resources
-
-* **Tech Stack:** React.js, Node.js, MongoDB, Python (TensorFlow/PyTorch)
-* **Alerts & Notifications:** SMS + In-App push integration
-* **Authentication:** JWT, Role-Based Access Control (RBAC)
-
- Repository Insights
-
-| Metric      | Value |
-| ----------- | ----- |
-| ⭐ Stars     | 0     |
-| 👀 Watchers | 0     |
-| 🍴 Forks    | 0     |
-
-> Built with passion to safeguard our oceans 🌍🌊
-> *– AI-Powered Unified Ocean Data & Compliance Platform Team*
-
-````
-
----
-
-### ✅ To update your README on GitHub:
-Run these commands in your repo folder:
-
-```bash
-cd C:\Users\prith\OneDrive\Desktop\sms
-echo "Updating README..."
-````
-
-
-```bash
-git add README.md
-git commit -m "Updated README to reflect Unified Ocean Data & Compliance Platform"
-git push
-```
-
+* Tech Stack: React.js, Node.js, MongoDB, Python (TensorFlow/PyTorch)
+* Alerts & Notifications: SMS + In-App push integration
+* Authentication: JWT, Role-Based Access Control (RBAC)
 
