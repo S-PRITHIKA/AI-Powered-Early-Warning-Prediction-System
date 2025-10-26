@@ -22,7 +22,7 @@ By integrating oceanographic, taxonomic, morphological, and environmental DNA (e
 
  User & Role Management
 - Add, edit, and delete user accounts.  
-- Role assignment: *Fisherman*, *Researcher*, *Admin*.  
+- Role assignment: Fisherman, Researcher, Admin.  
 - Fine-grained permission controls.  
 - User activity logging & audit trails.  
 
@@ -74,9 +74,9 @@ project-root/
 │   │   ├── styles/
 │   │   └── App.jsx
 │
-├── FishermanApp/          # Mobile App with SMS & notification modules
+├── FishermanApp/         
 │
-├── FishermanAppExpo/      # Expo project for fishermen-side mobile app
+├── FishermanAppExpo/   
 │
 ├── docs/
 │   ├── sprintathon_sea_warning.pdf
@@ -84,7 +84,7 @@ project-root/
 │
 ├── README.md
 ├── package.json
-└── .env  (gitignored)
+└── .env 
 
 ````
 
@@ -120,13 +120,4 @@ We welcome contributions from developers, researchers, and environmental experts
    ```
 5. Open a Pull Request
 
-About
-
-An AI-powered platform for real-time ocean monitoring, biodiversity analysis, and compliance management, with predictive insights and interactive dashboards to support fishermen, researchers, and policymakers.
-
- Resources
-
-* Tech Stack: React.js, Node.js, MongoDB, Python (TensorFlow/PyTorch)
-* Alerts & Notifications: SMS + In-App push integration
-* Authentication: JWT, Role-Based Access Control (RBAC)
 
