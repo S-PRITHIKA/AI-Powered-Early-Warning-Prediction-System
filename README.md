@@ -1,4 +1,3 @@
-
  🌊 AI-Powered Unified Ocean Data & Compliance Platform
 
  Overview
@@ -47,7 +46,7 @@ By integrating oceanographic, taxonomic, morphological, and environmental DNA (e
 
 | Layer | Technologies |
 |-------|---------------|
-| Frontend* | React.js, Tailwind CSS, Recharts, Mapbox |
+| Frontend | React.js, Tailwind CSS, Recharts, Mapbox |
 | Backend | Node.js (Express.js), REST APIs |
 | Database | MongoDB (Users, Compliance Logs, Incidents) |
 | AI/ML Models | Python (TensorFlow / PyTorch, eDNA analysis, predictive analytics) |
@@ -101,9 +100,8 @@ project-root/
 
  Contribution
 
-We welcome contributions from developers, researchers, and environmental experts.
-
-1. Fork the repository  
+1. Fork the repository
+  
 2. Create a branch:
    ```bash
    git checkout -b feature-name
