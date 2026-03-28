@@ -10,8 +10,6 @@ By integrating oceanographic, taxonomic, morphological, and environmental DNA (e
 
  Key Features
 
- Administrator Module
-
  Dashboard
 - Real-time incident monitoring (map-based visualization + live feed).  
 - Historical archive with filtering and timeline playback.  
@@ -40,18 +38,6 @@ By integrating oceanographic, taxonomic, morphological, and environmental DNA (e
 - Offline Mode with Auto-Sync: Designed for low-connectivity sea regions.  
 - Multi-Channel Alerts: Push notifications, SMS, and email broadcasting.  
 - Audit & Security: End-to-end RBAC with JWT authentication.  
-
-
- Technology Stack
-
-| Layer | Technologies |
-|-------|---------------|
-| Frontend | React.js, Tailwind CSS, Recharts, Mapbox |
-| Backend | Node.js (Express.js), REST APIs |
-| Database | MongoDB (Users, Compliance Logs, Incidents) |
-| AI/ML Models | Python (TensorFlow / PyTorch, eDNA analysis, predictive analytics) |
-| Authentication | JWT, Role-Based Access Control (RBAC) |
-| Notifications | Twilio / Firebase Cloud Messaging (SMS + App Alerts) |
 
  Project Structure
 
